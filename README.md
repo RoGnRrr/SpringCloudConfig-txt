@@ -1,0 +1,2 @@
+# SpringCloudConfig-txt
+SpringCloudConfig配置文件存放目录
