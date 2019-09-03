@@ -1,9 +1,2 @@
-server:
-  port: 11002
-
-spring:
-  application:
-    name: spring-cloud-config-server
-    
-neo:
-    hello: hello im test
+mysql:
+    server-url: http://admin.xfk100.com:3306

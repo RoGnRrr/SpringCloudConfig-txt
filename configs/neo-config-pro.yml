@@ -1,9 +1,2 @@
-server:
-  port: 11001
-
-spring:
-  application:
-    name: spring-cloud-config-server
-    
-neo:
-    hello: hello im pro
+mysql:
+    server-url: http://admin.xfj100.com:3306

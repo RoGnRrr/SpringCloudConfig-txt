@@ -1,9 +1,2 @@
-server:
-  port: 11000
-
-spring:
-  application:
-    name: spring-cloud-config-server
-
-neo:
-    hello: hello im dev
+mysql:
+    server-url: http://192.168.10.128:3306
